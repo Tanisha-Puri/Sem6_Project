@@ -1,0 +1,9 @@
+stream,model,accuracy
+airlines,AdaptiveRF,0.9998666666666668
+airlines,HoeffdingTree,0.9998666666666668
+airlines,KNN,0.9999333333333332
+airlines,NaiveBayes,0.0
+electricity,AdaptiveRF,0.9017333333333334
+electricity,HoeffdingTree,0.8352
+electricity,KNN,0.8722
+electricity,NaiveBayes,0.7488
